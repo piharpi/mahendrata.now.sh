@@ -1,8 +1,7 @@
 {
   "version": 2,
   "regions": [
-    "sin1",
-    "iad1"
+    "sin1"
   ],
   "cleanUrls": true,
   "redirects": [
@@ -12,7 +11,13 @@
     },
     {
       "source": "/tw",
-      "destination": "https://twitter.com/piharpi"
+      "destination": "https://twitter.com/piharpi~ [master] vercel
+      Vercel CLI 21.0.1
+      Error! Deploying Serverless Functions to multiple regions is restricted to the Enterprise plan for Teams.
+      Learn More: https: //vercel.link/multiple-function-regions
+      ~ [master
+      ] 
+      "
     },
     {
       "source": "/ig",
