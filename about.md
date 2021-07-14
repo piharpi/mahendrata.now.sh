@@ -14,6 +14,7 @@ If you have a question about him or else, just send a letter to him. You can [re
 
 ##### may u needs?
 
-* [github.com/{{site.author.username}}](/github)
-* ~~[instagram.com/{{site.author.username}}](/instagram)~~ * nOT rLLY with this one
+* [github.com/{{site.author.username}}](/gh)
+* [instagram.com/{{site.author.username}}](/ig)
+* [twitter.com/{{site.author.username}}](/tw)
 * [{{site.author.email}}](mailto:{{site.author.email}})
