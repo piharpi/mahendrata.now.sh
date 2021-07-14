@@ -1,0 +1,27 @@
+{
+  "version": 5,
+  "regions": [
+    "sin1",
+    "iad1"
+  ],
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/gh",
+      "destination": "https://github.com/piharpi"
+    },
+    {
+      "source": "/tw",
+      "destination": "https://twitter.com/piharpi"
+    },
+    {
+      "source": "/ig",
+      "destination": "https://instagram.com/piharpi"
+    },
+    {
+      "source": "/resume",
+      "destination": "https://harpi.notion.site/Choirul-Mahendrata-Harpi-3cf4e070e92248f6b8bb636975d603c7",
+      "permanent": true
+    }
+  ]
+}
